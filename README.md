@@ -1,2 +1,2 @@
 # JLU_Uims
-吉林大学教师一键评价
+one key to fuck jlu uims
