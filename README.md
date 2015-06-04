@@ -1,2 +1,2 @@
 # JLU_Uims
-one key to fuck jlu uims
+gui which is powered by flask is in my linux system
