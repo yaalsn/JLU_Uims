@@ -1,11 +1,14 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 """ test """
 import json
 #  from hashlib import md5
 import hashlib
 import requests
 
-NAME = '31150228'
-PWDPLAIN = '122214'
+NAME = ''
+PWDPLAIN = ''
 ANSWERS = {"prob11":"A", "prob12":"A", "prob13":"D", "prob14":"A", "prob15":"A", \
            "prob21":"A", "prob22":"A", "prob23":"A", "prob31":"A", "prob32":"A", \
            "prob41":"A", "prob42":"A", "prob43":"A", "prob51":"A", "prob52":"A", \
