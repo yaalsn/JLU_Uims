@@ -39,4 +39,4 @@ def login(name, inp):
         print fuck_p.text
 
 if __name__ == '__main__':
-login(name, makeTransferPwd(name, pwdPlain))
+    login(name, makeTransferPwd(name, pwdPlain))
