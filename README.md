@@ -10,7 +10,6 @@
 
 ```
 pip install requests
-编辑uims.py, 填写学号和密码
 python uims.py
 ```
 
