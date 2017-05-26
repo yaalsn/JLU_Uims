@@ -6,11 +6,11 @@
 
 
 
-## how to run
+## 如何运行
 
 ```
 pip install requests
 ```
 
-## Don't have python?
+## 各个平台打包好的可执行文件
 <https://github.com/yaalsn/JLU_Uims/releases>
