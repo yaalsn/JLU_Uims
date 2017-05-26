@@ -10,6 +10,8 @@
 
 ```
 pip install requests
+编辑uims.py, 填写学号和密码
+python uims.py
 ```
 
 ## 各个平台打包好的可执行文件
