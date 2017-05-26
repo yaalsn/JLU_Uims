@@ -15,3 +15,9 @@ python uims.py
 
 ## 各个平台打包好的可执行文件
 <https://github.com/yaalsn/JLU_Uims/releases>
+### 如何使用
+```
+mac用户下载下来后需要添加可执行权限
+chmod +x uims && ./uims
+windiaos用户双击即可
+```
