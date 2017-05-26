@@ -10,9 +10,6 @@
 
 ```
 pip install requests
-python2 uims_py2.py
-or
-python3 uims_py3.py
 ```
 
 ## Don't have python?
